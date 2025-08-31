@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# Data & models
+data/*.zip
+data/*.rar
+data/*.7z
+*.pkl
+model/*.pkl
+
+# VS Code
+.vscode/
